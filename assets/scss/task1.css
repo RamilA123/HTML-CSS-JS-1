@@ -1,0 +1,22 @@
+#form button {
+  width: 110px;
+}
+
+.item {
+  background: -webkit-gradient(linear, left top, right top, from(#1d60c5), to(#3b6ac0));
+  background: linear-gradient(to right, #1d60c5, #3b6ac0);
+  padding: 5px 0 5px 5px;
+  border-radius: 10px;
+  margin-top: 10px;
+  color: white;
+  position: relative;
+}
+
+.icon {
+  position: absolute;
+  right: 15px;
+  top: 7px;
+  font-size: 20px;
+  cursor: pointer;
+}
+/*# sourceMappingURL=task1.css.map */
